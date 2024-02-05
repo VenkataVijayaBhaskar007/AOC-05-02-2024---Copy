@@ -16064,7 +16064,6 @@ button:focus, input:focus, textarea:focus {
 	-webkit-animation: spiral-Rotate 20s linear infinite;
 	z-index: 1;
   }
-<<<<<<< HEAD
 
   .spiral-icon-block {
 	width: 64px;
@@ -16187,8 +16186,6 @@ button:focus, input:focus, textarea:focus {
 	-webkit-animation: spiral-Rotate 20s linear infinite;
 	z-index: 1;
   }
-=======
->>>>>>> 1ea2cd07992aec720cfae15655b99d60dcf9efab
   .spiral-icon-block {
 	width: 64px;
 	height: 64px;
@@ -16238,11 +16235,7 @@ button:focus, input:focus, textarea:focus {
    .spiral-icon-block:nth-child(5) {
 	position: absolute;
 	top: 10%;
-<<<<<<< HEAD
 	left: 25%;
-=======
-	left: -5%;
->>>>>>> 1ea2cd07992aec720cfae15655b99d60dcf9efab
 	transform: translate(-50%, -50%);
 	background-color: #ff0000; 
 	color: #ffffff; 
@@ -16251,13 +16244,8 @@ button:focus, input:focus, textarea:focus {
   
   .spiral-icon-block:nth-child(6) {
 	position: absolute;
-<<<<<<< HEAD
 	top: 75%;
 	right: -15%;
-=======
-	top: 70%;
-	right: -30%;
->>>>>>> 1ea2cd07992aec720cfae15655b99d60dcf9efab
 	transform: translate(-75%, -75%);
 	background-color: #00ff00; 
 	color: #000000;  
@@ -16283,15 +16271,10 @@ button:focus, input:focus, textarea:focus {
 	transform: translate(-25%, 25%);
 	background-color: #0000ff;
 	color: #ffffff; 
-<<<<<<< HEAD
 	-webkit-transform: translate(-125%, -125%);
   }
   }
   
-=======
-	-webkit-transform: translate(-100%, -100%);
-  }
->>>>>>> 1ea2cd07992aec720cfae15655b99d60dcf9efab
   
   /* circle content */
   .spiral-circle {
